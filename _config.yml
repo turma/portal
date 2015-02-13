@@ -1,0 +1,14 @@
+title : Tur.ma
+timezone: America/Sao_Paulo
+
+url: http://tur.ma
+baseurl: /
+permalink: /:categories/:title/
+
+paginate: 5
+paginate_path: 'pagina:num'
+# For better related posts
+#lsi: true
+
+github_url: https://github.com/turma/
+google_analytics_id: UA-59723020-1

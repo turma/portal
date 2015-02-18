@@ -1,4 +1,4 @@
-[TUR.MA](tur.ma)
+[TUR.MA](http://tur.ma)
 =========================
 
 Em breve...
